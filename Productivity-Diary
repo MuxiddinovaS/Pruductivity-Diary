@@ -1,1 +1,100 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <title>Bosh Sahifa</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    
+    h1{
+      font-size: 35px;
+      text-align: center;
+    }
+    header {
+      background-color: #ff69b4;
+      padding: 1rem;
+      text-align: center;
+      color: white;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: #ffc0cb;
+      padding: 0.5rem;
+      flex-wrap: wrap;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 10px;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    main {
+      padding: 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    section {
+      margin-bottom: 2rem;
+      background: white;
+      padding: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #e75480;
+    }
+    footer {
+      background-color: #E989AF;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="overlay"></div>
+    <div>
+      <h1>Productivity Diary</h1>
+      <nav>
+        <a href="index.html">Homepage</a>
+        <a href="about.html">About Us</a>
+        <a href="videos.html">Video showcase</a>
+        <a href="focus.html">Theme and Focus</a>
+        <a href="motivation.html">Our Motivation</a>
+        <a href="goals.html">Project Aims</a>
+        <a href="development.html">Project Development</a>
+        <a href="future.html">Feature plans</a>
+      </nav>
+    </div>
+  </header>
+
+  <section style="font-family: 'Comic Sans MS', cursive, sans-serif;">
+    <h1>Welcome to Productivity Diary <br>Your online space for motivation, real-life routines, and personal growth.</h1>
+    <h4>We are a creative team of university students passionate about productivity and self-improvement. <br> Our YouTube channel documents our daily habits, struggles, and wins as we grow into more focused, intentional versions of ourselves.
+
+      Here, you’ll find realistic tips, inspiring routines, and meaningful reflections from real people — not experts, not influencers — just students figuring things out and sharing it all along the way. Whether you’re trying to break bad habits, stay consistent, or just find some motivation to get through your week, we’ve got your back.
+      
+      Subscribe. Explore. Evolve — one video at a time.</h4>
+  </section>
+
+  <footer>
+    <h3>© 2025 Productivity Diary. Be productive with us!</h3>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
 
