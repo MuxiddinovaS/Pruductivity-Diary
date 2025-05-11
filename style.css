@@ -9,9 +9,13 @@ body {
   margin: 0;
 }
 h1{
-  
+  font-family: 'Dancing Script', cursive;
   text-align: center;
-  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+h2{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
 }
 
 header {
